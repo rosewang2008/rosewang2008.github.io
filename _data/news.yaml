@@ -1,11 +1,15 @@
 news:
     - time: "February 2025"
-      events: "New paper on Educator Attention across 1M+ utterances: <a href='https://arxiv.org/pdf/2502.20135'>link</a>."
+      events: "Invited talk at Princeton University Computer Science."
       category: "current"
 
     - time: "February 2025"
       events: "Invited talk at University of Washington CSE (<a href='https://www.youtube.com/watch?v=E3XOY7cC4V8'>recording</a>)."
       category: "current"
+
+    - time: "February 2025"
+      events: "New paper on Educator Attention across 1M+ utterances: <a href='https://arxiv.org/pdf/2502.20135'>link</a>."
+      category: "past"
 
     - time: "February 2025"
       events: "Research featured in Education Week, <a href='https://www.edweek.org/technology/the-new-teachers-aides-ai-tutors/2025/02'>The New Teachers' Aides: AI Tutors</a>."
@@ -33,15 +37,15 @@ news:
 
     - time: "December 2024"
       events: "Invited talk at Cohere for AI"
-      category: "current"
+      category: "past"
 
     - time: "December 2024"
       events: "Invited talk at the Learning Engineering Virtual Institute"
-      category: "current"
+      category: "past"
 
     - time: "December 2024"
       events: "Attending NeurIPS! Feel free to reach out to chat...or run together! (<a href='http://aishwaryamandyam.com'>NeurIPS unofficial run club</a>)"
-      category: "current"
+      category: "past"
 
     - time: "November 2024"
       events: "✨ Highlighted as a <b>Leader in AI & Education</b> by <a href='https://www.aiforeducation.io/blog/spotlight-highered'>AI for Education</a>."
@@ -53,11 +57,11 @@ news:
 
     - time: "November 2024"
       events: "Two works at EMNLP 2024: Evaluating LLMs on real-world math curriculum (<a href='https://arxiv.org/pdf/2408.04226'>link</a>) and on Problem-Oriented Segmentation and Retrievel (<a href='https://arxiv.org/pdf/2411.07598'>link</a>)."
-      category: "current"
+      category: "past"
 
     - time: "November 2024"
       events: "Invited talk at Princeton University"
-      category: "current"
+      category: "past"
 
     - time: "November 2024"
       events: "Invited talk at MIT"
@@ -69,27 +73,27 @@ news:
 
     - time: "November 2024"
       events: "Invited talk at the Learning Agency"
-      category: "current"
+      category: "past"
 
     - time: "November 2024"
       events: "Invited talk at TeachFX"
-      category: "current"
+      category: "past"
 
     - time: "November 2024"
       events: "Invited talk at Worcester Polytechnic Institute"
-      category: "current"
+      category: "past"
 
     - time: "October 2024"
       events: "Invited talk at Harvard University, Graduate School of Education"
-      category: "current"
+      category: "past"
 
     - time: "October 2024"
       events: "Invited talk at University of Washington"
-      category: "current"
+      category: "past"
 
     - time: "October 2024"
       events: "Invited talk at KAIST"
-      category: "current"
+      category: "past"
 
     - time: "October 2024"
       events: "Want to build <b>your own Tutor CoPilot</b>? I released <a href='https://github.com/rosewang2008/tutor-copilot'>code</a>, <a href='https://colab.research.google.com/drive/11eZ04vTEAit5bmp3Yl2KHhO3YLoILsd-'>Colab notebook</a> and <a href='https://www.youtube.com/watch?v=vV0jXEs4hdw'>tutorial video</a> showing how to!"
@@ -105,60 +109,60 @@ news:
 
     - time: "October 2024"
       events: "Invited talk at University of Maryland"
-      category: "current"
+      category: "past"
 
     - time: "September 2024"
       events: "Invited talk at University of Bocconi"
-      category: "current"
+      category: "past"
 
     - time: "September 2024"
       events: "Talk at University of Chicago AI in Social Science Conference"
-      category: "current"
+      category: "past"
 
     - time: "September 2024"
       events: "Talk at SREE Invited Symposium on Exploring the AI Frontier: Innovations in Social Science Research"
-      category: "current"
+      category: "past"
 
     - time: "September 2024"
       events: "Talk at SREE Symposium on Artificial Intelligence and the Future of Educational Measurement and Evaluation"
-      category: "current"
+      category: "past"
 
     - time: "September 2024"
       events: "Poster at SREE on Split or Share Attention in Small-Group Tutoring"
-      category: "current"
+      category: "past"
 
     - time: "July 2024"
       events: "🏆 Winner of the Learning Engineering Tools Competition"
-      category: "current"
+      category: "past"
 
     - time: "July 2024"
       events: "Invited talk at the Learning Analytics Learning Network"
-      category: "current"
+      category: "past"
 
     - time: "July 2024"
       events: "Invited talk at the National Tutoring Observatory"
-      category: "current"
+      category: "past"
 
     - time: "July 2024"
       events: "🏆 Ambassador (Best) Paper Talk at the Articial Intelligence and Education Conference (AIED)"
-      category: "current"
+      category: "past"
 
     - time: "July 2024"
       events: "Invited Presentation at the Education Data Mining, LLM for EdTech Workshop"
-      category: "current"
+      category: "past"
 
     - time: "May 2024"
       events: "Invited talk at the National Council on Measurement in Education: AI in Measurement and Education"
-      category: "current"
+      category: "past"
 
     - time: "May 2024"
       events: "Invited talk at CU Boulder"
-      category: "current"
+      category: "past"
 
     - time: "May 2024"
       events: "Invited talk at the National Student Support Accelerator conference"
-      category: "current"
+      category: "past"
 
     - time: "April 2024"
       events: "Invited talk at UC Irvine"
-      category: "current"
+      category: "past"
