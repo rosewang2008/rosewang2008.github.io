@@ -17,11 +17,11 @@ news:
 
   - time: "February 2025"
     events: "Research featured in Education Week, <a href='https://www.edweek.org/technology/the-new-teachers-aides-ai-tutors/2025/02'>The New Teachers' Aides: AI Tutors</a>."
-    category: "current"
+    category: "past"
 
   - time: "February 2025"
     events: "Published an article on <a href='https://ai.stanford.edu/blog/teaching/'>the future of human learning in the age of AI</a>. Featured on the <a href='https://blogs.iadb.org/educacion/es/esfuerzo-productivo-el-futuro-del-aprendizaje-humano-en-la-era-de-la-inteligencia-artificial/'>Inter-American Development Bank</a> (translated in Spanish)."
-    category: "current"
+    category: "past"
 
   - time: "January 2025"
     events: "Two works, <a href='https://arxiv.org/pdf/2410.03017'>Tutor CoPilot</a> and <a href='https://arxiv.org/pdf/2310.10648'>Bridge</a>, are cited in the <a href='https://www.govinfo.gov/content/pkg/ERP-2025/pdf/ERP-2025.pdf'><b>2025 Economic Report of the President</b></a>."
@@ -33,11 +33,11 @@ news:
 
   - time: "December 2024"
     events: "Tutor CoPilot is recognized in <a href='https://www.the74million.org/article/charts-that-defined-education-in-2024/'>the 74's</a> <b style='color:#4682b4'>Charts that Defined Education in 2024</b>."
-    category: "current"
+    category: "past"
 
   - time: "December 2024"
     events: "Invited talk at UT Austin"
-    category: "current"
+    category: "past"
 
   - time: "December 2024"
     events: "Invited talk at Cohere for AI"
@@ -53,11 +53,11 @@ news:
 
   - time: "November 2024"
     events: "✨ Highlighted as a <b>Leader in AI & Education</b> by <a href='https://www.aiforeducation.io/blog/spotlight-highered'>AI for Education</a>."
-    category: "current"
+    category: "past"
 
   - time: "November 2024"
     events: "Two grants awarded by the Gates Foundation to continue work on (a) developing AI and Education benchmarks and (b) developing Language CoPilots."
-    category: "current"
+    category: "past"
 
   - time: "November 2024"
     events: "Two works at EMNLP 2024: Evaluating LLMs on real-world math curriculum (<a href='https://arxiv.org/pdf/2408.04226'>link</a>) and on Problem-Oriented Segmentation and Retrievel (<a href='https://arxiv.org/pdf/2411.07598'>link</a>)."
@@ -101,11 +101,11 @@ news:
 
   - time: "October 2024"
     events: "Want to build <b>your own Tutor CoPilot</b>? I released <a href='https://github.com/rosewang2008/tutor-copilot'>code</a>, <a href='https://colab.research.google.com/drive/11eZ04vTEAit5bmp3Yl2KHhO3YLoILsd-'>Colab notebook</a> and <a href='https://www.youtube.com/watch?v=vV0jXEs4hdw'>tutorial video</a> showing how to!"
-    category: "current"
+    category: "past"
 
   - time: "October 2024"
     events: "Tutor CoPilot research primer video is released. <a href='https://www.youtube.com/watch?v=tWZwmHEtaiQ'>Watch it here</a>."
-    category: "current"
+    category: "past"
 
   - time: "October 2024"
     events: "Tutor CoPilot, the <b>first large-scale intervention of Human-AI approach in live tutoring</b> with 1,800 K12 students and 900 tutors is released. ✨👉 News coverage includes <b><a href='https://www.technologyreview.com/2024/10/28/1106251/this-ai-system-makes-human-tutors-better-at-teaching-children-math/'>MIT Technology Review</a>, <a href='https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10'>Education Week</a>, <a href='https://www.the74million.org/article/study-ai-assisted-tutoring-boosts-students-math-skills/'>the 74</a>, <a href='https://www.k12dive.com/news/ai-tutor-effectiveness-stanford-university/728980/'>K-12 Dive</a>, <a href='https://www.marktechpost.com/2024/10/08/researchers-at-stanford-university-introduce-tutor-copilot-a-human-ai-collaborative-system-that-significantly-improves-real-time-tutoring-quality-for-students/'>MarkTechPost</a>, <a href='https://danmeyer.substack.com/p/ais-delivery-problem-and-how-tutor'>Dan Meyer's blog</a>, <a href='https://acceleratelearning.stanford.edu/initiative/scale/'>Stanford Accelerator for Learning</a></b>."
